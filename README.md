@@ -26,3 +26,13 @@ Based on the SQL queries in `monday_coffee_data_analysis_queries.sql`, here are 
 1. Run `monday_coffee_schemas_database_setup.sql` to create the schema.
 2. Import the `.csv` files from the `data/` folder into the respective tables.
 3. Run `monday_coffee_data_analysis_queries.sql` to generate the reports.
+
+### Business Recommendations
+City     Total Revenue     Estimated Coffee Consumers         Avg Rent per Customer
+Pune       High                    1.87M                      Low (Recommended)
+Delhi      Highest                 7.75M                      Medium
+Jaipur     Medium                  1.00M                      Very Low (Recommended)
+
+## ✍️ About the Author
+I am a Data Analytics student with a focus on SQL and financial market trends. 
+Check out my other projects or connect with me on LinkedIn:www.linkedin.com/in/sammy-kimaru-da43322
